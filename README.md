@@ -7,4 +7,5 @@ Please refer to http://www.tennfy.com/2136.html (debian下shadowsocks-libev一�
 
 
 wget --no-check-certificate https://raw.githubusercontent.com/cnstudio/shadowsocks-libev/master/ss.sh
+
 chmod a+x ss.sh
